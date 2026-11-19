@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         'alta-frecuencia': {
             title: 'Tratamiento de Alta Frecuencia',
-            image: 'https://media.istockphoto.com/id/1864508718/es/foto/cosmet%C3%B3loga-haciendo-un-procedimiento-antienvejecimiento-en-el-sal%C3%B3n.webp?a=1&b=1&s=612x612&w=0&k=20&c=xg0ljyiA3WDWoHJ1r4zA13l9RCSZDkOHDSZD1bCyxj4=',
+            image: 'alta_frecuencia.jpg',
             description: 'Procedimiento cosmetológico que utiliza electrodos de vidrio que transmiten una corriente suave de alta frecuencia. Genera ozono con propiedades antisépticas, descongestivas y cicatrizantes en la piel y el cuero cabelludo.',
             benefits: [
                 'Acción bactericida y antiséptica (ideal para acné o post-extracción).',
